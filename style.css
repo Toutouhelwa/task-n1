@@ -1,0 +1,51 @@
+.mypage {
+  width: 80%;
+  text-align: center;
+  margin: auto;
+  padding: auto;
+  background-color: grey;
+}
+
+.avatar img {
+  border-radius: 10%;
+  margin: auto;
+  padding: auto;
+  border: solid beige;
+}
+table {
+  border: solid black;
+  margin: auto;
+  padding: auto;
+}
+.infos p {
+  color: black;
+  opacity: 1;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Liberation Sans",
+    sans-serif;
+  font-size: 15px;
+}
+.infos {
+  text-align: center;
+}
+h3 {
+  text-align: center;
+  text-decoration: underline;
+  color: rgb(91, 22, 155);
+}
+ol {
+  list-style-position: inside;
+  list-style-type: disc;
+}
+.links {
+  text-align: center;
+  text-shadow: 2px 2px #141111;
+}
+a:hover {
+  color: aqua;
+}
+a:active {
+  color: blueviolet;
+}
+a {
+  display: block;
+}
